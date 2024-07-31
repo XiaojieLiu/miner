@@ -2,7 +2,7 @@
 # 初始化变量
 
 type="1"
-code="5C621913-8BCE-4A8B-8F61-570C727D852F"
+code="7B60556C-C9BC-4D28-B090-197ED75C5DBA"
 nfsurl=""
 folder=""
 already_install_NFS=2
